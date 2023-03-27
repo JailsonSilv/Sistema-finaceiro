@@ -8,6 +8,8 @@ export const items: Item[]  = [
     { date: new Date(2023, 2, 17), category: 'internet', title: "Internet", value: 80 },
     { date: new Date(2023, 2, 23), category: 'salary', title: "Salário JS", value: 2200 },
     { date: new Date(2023, 3, 23), category: 'salary', title: "Salário JS", value: 2200 },
-
+    { date: new Date(2023, 4, 23), category: 'salary', title: "Salário JS", value: 2200 },
+    { date: new Date(2023, 5, 23), category: 'salary', title: "Salário JS", value: 2200 },
+    { date: new Date(2023, 6, 23), category: 'salary', title: "Salário JS", value: 2200 },
 ];
 
