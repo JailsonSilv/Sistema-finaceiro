@@ -1,46 +1,40 @@
-# Getting Started with Create React App
+# Sistema Financeiro
+<P>  
+  Sistema onde vai colocar as entradas e saídas financeiras, assim que você vai colocando suas movimentações, o balanço de determinado mês vai mudando pra negativo ou       positivo.
+  Assim você vai saber o quanto gastou naquele mês e se esta positivo ou negativo.
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Veja como usar
+ 
+https://user-images.githubusercontent.com/104876290/228050214-f8e77b82-31f1-4df9-b8a5-4041eb1c0ad2.mp4
 
-In the project directory, you can run:
 
-### `npm start`
+<h1>Funcionalidades</h1>
+<p>
+  
+  - Pega valores de entradas e saídas.
+  
+  - Guarda valor A e B.
+  
+  - Ao final vai exibir o resultado, total de saldo que entrou naquele mês - as despesas daquele mês. 
+  
+  - O resultado é o balanço mensal.
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Instalação
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1 - Clone o repositório para o seu computador local usando o comando git clone.
+    git clone https://github.com/seunome/projeto.git
+    
+2 - Abra o repositório no seu editor de código. ex: (Visual studio code)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Licença
 
-### `npm run build`
+Licença MIT: permite que o software seja usado, modificado e distribuído com poucas restrições, desde que o aviso de direitos autorais seja incluído no código.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contato
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://www.linkedin.com/in/jailsondev-front-end/">Jailson Silva</a>
